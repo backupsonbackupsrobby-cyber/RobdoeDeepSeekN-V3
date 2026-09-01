@@ -41,6 +41,11 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Robdoe.DeepSeek.Core {
+    public struct ExpertScore {
+        public int Index;
+        public float Score;
+    }
+
     public class HarmonicKuramotoEngine {
         public const double ArcsecondsFull = 1296000.0;
         public const double SecondsDay     = 86400.0;
@@ -116,9 +121,9 @@ namespace Robdoe.DeepSeek.Core {
                 scores[k] = fNewton + fKuramoto;
             });
 
-            var top = scores.Select((s, i) => new { Index = i, Score = s })
-                            .OrderByDescending(x => x.Score)
-                            .Take(topK).ToArray();
+            ExpertScore[] top = scores.Select((s, i) => new ExpertScore { Index = i, Score = s })
+                                      .OrderByDescending(x => x.Score)
+                                      .Take(topK).ToArray();
 
             float maxS = top[0].Score;
             float sumExp = top.Sum(x => (float)Math.Exp(x.Score - maxS));
@@ -135,7 +140,7 @@ namespace Robdoe.DeepSeek.Core {
     }
 }
 "@
-    if (-not ([System.Management.Automation.PSTypeName]'Robdoe.DeepSeek.Core.HarmonicKuramotoEngine').Type) {
+    if (-not ("Robdoe.DeepSeek.Core.HarmonicKuramotoEngine" -as [type])) {
         Add-Type -TypeDefinition $code -Language CSharp
     }
 
