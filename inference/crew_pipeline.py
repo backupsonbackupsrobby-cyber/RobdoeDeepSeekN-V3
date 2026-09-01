@@ -10,7 +10,11 @@ def log(msg):
 def run_chronograph():
     log("Running chronograph_engine.ps1...")
     subprocess.run(
-        ["powershell.exe", "-ExecutionPolicy", "Bypass", ".\\chronograph_engine.ps1"],
+        [
+            "powershell.exe",
+            "-ExecutionPolicy", "Bypass",
+            "C:\\RobdoeDeepSeekN-V3\\chronograph_engine.ps1"
+        ],
         shell=True
     )
 
