@@ -1,0 +1,155 @@
+﻿[
+    {
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "Compliance":  {
+                           "Framework":  "Budapest Convention / Statutory Compliance Audit",
+                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                           "TimestampUTC":  "2026-08-31T09:24:45.4046727Z",
+                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                       },
+        "Theta":  3.6442932249982931,
+        "Epoch":  12
+    },
+    {
+        "Epoch":  15,
+        "Theta":  2.9662739851560409,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-TAG-UID-223F8A03",
+        "NftBinding":  "ERC721:0xROBLLAMA...v1.0.0-m",
+        "NewtonianForce":  0.77127223276020407,
+        "Compliance":  {
+                           "Framework":  "Budapest Convention / NFC-NFT Electromagnetic Coupling Audit",
+                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                           "TimestampUTC":  "2026-08-31T09:35:01.1199155Z",
+                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                       }
+    },
+    {
+        "Epoch":  16,
+        "Theta":  3.7281564044350288,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-TAG-UID-0813EDF5",
+        "NftBinding":  "ERC721:0xROBLLAMA...[Tapu]-v1.0.0-m",
+        "NewtonianForce":  0.92318917600000006,
+        "Compliance":  {
+                           "Framework":  "Budapest Convention / Pure Tapu - Lex Immutabilis - רית קודש",
+                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:40:10.4954507Z",
+                           "ComplianceStatus":  "Verified-Tamper-Evident-Tapu"
+                       }
+    },
+    {
+        "Epoch":  16,
+        "Theta":  3.7272822961353755,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-TAG-UID-9EA92233",
+        "NftBinding":  "ERC721:0xROBLLAMA...[Tapu]-v1.0.0-m",
+        "NewtonianForce":  0.91293151848888887,
+        "Compliance":  {
+                           "Framework":  "Budapest Convention / Pure Tapu - Lex Immutabilis - רית קודש",
+                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:40:47.4273698Z",
+                           "ComplianceStatus":  "Verified-Tamper-Evident-Tapu"
+                       }
+    },
+    {
+        "Epoch":  17,
+        "Theta":  0.0462630733731797,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-SECURE-HARDWARE-2687855C-8A4F-46D7-9658-44062A9C5B40",
+        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-INVIOLABLE]-v1.0.0-m",
+        "NewtonianForce":  2,
+        "Compliance":  {
+                           "Framework":  "Budapest Convention / Lex Immutabilis / Tapu / רית קודש",
+                           "PreservationHash":  "sha1028-7bd5f057f13c883696668f2cdf143513f49ae5296738e1da6b5e1b66cb5cb35205fca0750cba6d9ebc6956f2fd2f598245208b3f3424446deb596d34a30ae08d8021ahs",
+                           "ParentDagHash":  "0000000000000000000000000000000000000000000000000000000000000000",
+                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:44:58.5955618Z",
+                           "ComplianceStatus":  "Verified-Tamper-Evident-DAG-Locked"
+                       }
+    },
+    {
+        "Epoch":  18,
+        "Theta":  2.6442062959272241,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-OBFUSCATED-BBBE241F-BC9D-4233-8A74-986EB273229A",
+        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-OBFUSCATED]-v1.0.0-m",
+        "NewtonianForce":  2,
+        "Compliance":  {
+                           "Framework":  "Budapest Convention / Lex Immutabilis / Tapu / רית קודש",
+                           "PreservationHash":  "sha1028-0160b91879bef6b3541ea230d825c65d0b477180c48e9247c4e004c56dcc536d2d2321df02ed6d488279c3b61a72ec8738c9eecc9991d37b99bcfd6409aafcbc8021ahs",
+                           "ParentDagHash":  "sha1028-7bd5f057f13c883696668f2cdf143513f49ae5296738e1da6b5e1b66cb5cb35205fca0750cba6d9ebc6956f2fd2f598245208b3f3424446deb596d34a30ae08d8021ahs",
+                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:47:23.7104512Z",
+                           "ComplianceStatus":  "Verified-Obfuscated-Live-DAG"
+                       }
+    },
+    {
+        "Epoch":  19,
+        "Theta":  3.9029737580809929,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-BUDAPEST-COMPLIANT-23F016F3-2462-4D2B-9DCA-60F5C3E369F9",
+        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-BUDAPEST]-v1.0.0-m",
+        "NewtonianForce":  2,
+        "Compliance":  {
+                           "Framework":  "Budapest Convention on Cybercrime (ETS 185) - Articles 16, 29 \u0026 Second Additional Protocol",
+                           "PreservationHash":  "sha1028-81a94d997a058e3442238fda13d4048a020ab70c46349a2272a1481646bb9451f4128b035e94f68492d0fe6fd96cf3047be699be9ff95f1bace890cd79ada0588021ahs",
+                           "ParentDagHash":  "sha1028-0160b91879bef6b3541ea230d825c65d0b477180c48e9247c4e004c56dcc536d2d2321df02ed6d488279c3b61a72ec8738c9eecc9991d37b99bcfd6409aafcbc8021ahs",
+                           "ChainOfCustody":  "Immutable-Expedited-Preservation / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:48:48.4862247Z",
+                           "ComplianceStatus":  "Verified-Budapest-DAG-Locked"
+                       }
+    },
+    {
+        "Epoch":  20,
+        "Theta":  0.86077271101694031,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-GLOBAL-NET-87057AEC-527D-4159-B0C9-9A8B6888448F",
+        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-GLOBAL-NET]-v1.0.0-m",
+        "NewtonianForce":  1.7540326632465375,
+        "Compliance":  {
+                           "Framework":  "Global .NET Socket Interop / Budapest Convention / Lex Immutabilis / רית קודש",
+                           "PreservationHash":  "sha1028-2b89a663b5349679c8b3590feea75bdfbf120f2dbdb8c8a970b5cc53d802ada257f9c66e4b3410a55b3182dbe1c5fba7f8bc154c65299442f44a81dd318d9e7b8021ahs",
+                           "ParentDagHash":  "sha1028-81a94d997a058e3442238fda13d4048a020ab70c46349a2272a1481646bb9451f4128b035e94f68492d0fe6fd96cf3047be699be9ff95f1bace890cd79ada0588021ahs",
+                           "ChainOfCustody":  "Universal-Network-Socket-Bound / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:51:08.6260779Z",
+                           "ComplianceStatus":  "Verified-Global-Interface-Locked"
+                       }
+    },
+    {
+        "Epoch":  21,
+        "Theta":  4.9160325289071372,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-FIREWALL-LOCKED-BED58CA0-C7DB-41ED-BDA6-7BB640D3B721",
+        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-FIREWALL-SHIELD]-v1.0.0-m",
+        "NewtonianForce":  2,
+        "Compliance":  {
+                           "Framework":  "Windows Firewall Hardened Profile / Lex Immutabilis / רית קודש",
+                           "PreservationHash":  "sha1028-105e46c41b0ec6c38c144a61f6a701003f62cff8aa10ef60de402ddc4ad31c7874fd4925a404e80880e8d0343fa7a4f8d2046ef6fc8dd59bc8732d8d4df6c3548021ahs",
+                           "ParentDagHash":  "sha1028-2b89a663b5349679c8b3590feea75bdfbf120f2dbdb8c8a970b5cc53d802ada257f9c66e4b3410a55b3182dbe1c5fba7f8bc154c65299442f44a81dd318d9e7b8021ahs",
+                           "ChainOfCustody":  "Firewall-Perimeter-Sealed / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T09:56:49.5916070Z",
+                           "ComplianceStatus":  "Verified-Firewall-Locked-Down"
+                       }
+    },
+    {
+        "Epoch":  22,
+        "Theta":  3.2148270726900172,
+        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+        "NfcUid":  "NFC-DPAPI-ADS-303B6EC0-13AA-4FAF-9934-9BBCE25A3F1C",
+        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-DPAPI-VAULT]-v1.0.0-m",
+        "NewtonianForce":  1.4647137278911562,
+        "Compliance":  {
+                           "Framework":  "DPAPI Machine Scope / NTFS Alternate Data Stream / Lex Immutabilis / רית קודש",
+                           "PreservationHash":  "sha1028-986a46b74f7ad77db64f2cd2ad4d1c9eef4ff383cf75a184764f08e841ce69a6c336cf0bd32d021f2fbf9f48e0074c091de35dc7258dc80b80a5856d0b9a905d8021ahs",
+                           "ParentDagHash":  "sha1028-105e46c41b0ec6c38c144a61f6a701003f62cff8aa10ef60de402ddc4ad31c7874fd4925a404e80880e8d0343fa7a4f8d2046ef6fc8dd59bc8732d8d4df6c3548021ahs",
+                           "ChainOfCustody":  "DPAPI-Protected-ADS-Locked / Неприкосновенно",
+                           "TimestampUTC":  "2026-08-31T10:13:47.3956710Z",
+                           "ComplianceStatus":  "Verified-DPAPI-Encrypted-Store"
+                       }
+    }
+]

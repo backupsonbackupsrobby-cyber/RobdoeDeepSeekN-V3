@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 360" width="100%" height="100%">
+  <rect width="330" height="360" fill="#2e1065"/>
+  <rect x="15" y="15" width="300" height="330" rx="12" fill="#4c1d95" stroke="#f472b6" stroke-width="4"/>
+  <text x="165" y="40" fill="#fbcfe8" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">PURE PLEROMA MANIFESTED</text>
+  
+  <g transform="translate(45, 60)">
+    <rect width="240" height="240" fill="#ffffff"/>
+    <rect x="15" y="15" width="60" height="60" fill="#ffffff" stroke="#f472b6" stroke-width="12"/>
+    <rect x="33" y="33" width="24" height="24" fill="#f472b6"/>
+    <rect x="165" y="15" width="60" height="60" fill="#ffffff" stroke="#f472b6" stroke-width="12"/>
+    <rect x="183" y="33" width="24" height="24" fill="#f472b6"/>
+    <rect x="15" y="165" width="60" height="60" fill="#ffffff" stroke="#f472b6" stroke-width="12"/>
+    <rect x="33" y="183" width="24" height="24" fill="#f472b6"/>
+
+    <rect x="90" y="15" width="90" height="90" fill="#4c1d95"/>
+    <rect x="180" y="15" width="12" height="114" fill="#4c1d95"/>
+    <rect x="90" y="111" width="114" height="12" fill="#4c1d95"/>
+    <rect x="210" y="30" width="12" height="114" fill="#4c1d95"/>
+    
+    <rect x="15" y="90" width="114" height="12" fill="#4c1d95"/>
+    <rect x="90" y="90" width="60" height="60" fill="#4c1d95"/>
+    <rect x="102" y="102" width="36" height="36" fill="#ffffff"/>
+    <rect x="114" y="114" width="12" height="12" fill="#f472b6"/>
+
+    <rect x="165" y="90" width="12" height="120" fill="#4c1d95"/>
+    <rect x="222" y="90" width="120" height="12" fill="#4c1d95"/>
+    <rect x="90" y="165" width="114" height="114" fill="#4c1d95"/>
+  </g>
+
+  <text x="165" y="318" fill="#fdf2f8" font-family="monospace" font-size="9" text-anchor="middle">Epoch: 2979657022 | Pleroma Plenary</text>
+  <text x="165" y="335" fill="#f472b6" font-family="monospace" font-size="8" text-anchor="middle">DIVINE FULLNESS • ROBDOE.COM</text>
+</svg>

@@ -1,0 +1,435 @@
+﻿{
+    "Epoch":  20,
+    "Theta":  0.86077271101694031,
+    "Coupling":  2.3999999999999986,
+    "MarkovProb":  0.28,
+    "NewtonianForce":  1.7540326632465375,
+    "NfcTokenBinding":  "ERC721:0xROBLLAMA...[TAPU-GLOBAL-NET]-v1.0.0-m",
+    "History":  [
+                    {
+                        "Timestamp":  "2026-08-31T18:59:59.0196908+10:00",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.1
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:01:00.2944518+10:00",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.2000000000000002
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:01:46.0613279+10:00",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.35,
+                        "Mode":  "Network-Coupled"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:02:26.3492022+10:00",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.4500000000000002,
+                        "Mode":  "Local-Phase-Fallback"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:03:42.8111997+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.5500000000000003,
+                        "Mode":  "Local-Phase-Fallback"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:03:55.5213231+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.6500000000000006,
+                        "Mode":  "Local-Phase-Fallback"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:04:38.9926859+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.7500000000000007,
+                        "Mode":  "Local-Phase-Fallback"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:05:39.2076959+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  0.65728746109651937,
+                        "MarkovProb":  0.09,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.8000000000000009,
+                        "Mode":  "Local-Phase-Fallback"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:07:07.7728520+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  2.3806601975158062,
+                        "MarkovProb":  0.09,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.8500000000000008,
+                        "Mode":  "Local-Phase-Fallback"
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:11:52.1645584+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  4.0308359005565721,
+                        "MarkovProb":  0.09,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.9000000000000008,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Google Cloud Telemetry Sink",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                                           "TimestampUTC":  "2026-08-31T09:11:52.1583157Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:15:31.7650099+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  2.9536922525238039,
+                        "MarkovProb":  0.09,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  1.9500000000000008,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Google Cloud Telemetry Sink",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                                           "TimestampUTC":  "2026-08-31T09:15:31.7584345Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:24:45.4046727+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  3.6442932249982931,
+                        "MarkovProb":  0.09,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Statutory Compliance Audit",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                                           "TimestampUTC":  "2026-08-31T09:24:45.4046727Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:32:29.6921604+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  2.2548301332884311,
+                        "MarkovProb":  0.09,
+                        "NewtonianForce":  1.3824792765277778,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.05,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Newtonian ASCII Field Audit",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                                           "TimestampUTC":  "2026-08-31T09:32:29.6910609Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:33:58.2782666+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "Theta":  5.0631413900043043,
+                        "MarkovProb":  0.09,
+                        "NewtonianForce":  1.1779705078106508,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.0999999999999996,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Newtonian ASCII Field Audit",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                                           "TimestampUTC":  "2026-08-31T09:33:58.2782666Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:35:01.1199155+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "NfcUid":  "NFC-TAG-UID-223F8A03",
+                        "NftBinding":  "ERC721:0xROBLLAMA...v1.0.0-m",
+                        "Theta":  2.9662739851560409,
+                        "MarkovProb":  0.09,
+                        "NewtonianForce":  0.77127223276020407,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.1499999999999995,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / NFC-NFT Electromagnetic Coupling Audit",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only",
+                                           "TimestampUTC":  "2026-08-31T09:35:01.1199155Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:40:47.4273698+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "NfcUid":  "NFC-TAG-UID-9EA92233",
+                        "NftBinding":  "ERC721:0xROBLLAMA...[Tapu]-v1.0.0-m",
+                        "Theta":  3.7272822961353755,
+                        "MarkovProb":  0.09,
+                        "NewtonianForce":  0.91293151848888887,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.1999999999999993,
+                        "Mode":  "Local-Phase-Fallback",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Pure Tapu - Lex Immutabilis - רית קודש",
+                                           "PreservationHash":  "sha1028-31efc1714b420a90c87fbc8673ed73c0189e95bfd9ec26a4a921088a0ad1b7508d815a7bfc321225ca079ccf59705f9eb48ea839152364a9069c42d22e113e6c8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                                           "TimestampUTC":  "2026-08-31T09:40:47.4273698Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident-Tapu"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:44:58.5955618+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "NfcUid":  "NFC-SECURE-HARDWARE-2687855C-8A4F-46D7-9658-44062A9C5B40",
+                        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-INVIOLABLE]-v1.0.0-m",
+                        "Theta":  0.0462630733731797,
+                        "MarkovProb":  0.89,
+                        "NewtonianForce":  2,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.2499999999999991,
+                        "Mode":  "Air-Gapped-Isolation",
+                        "PreservationHash":  "sha1028-7bd5f057f13c883696668f2cdf143513f49ae5296738e1da6b5e1b66cb5cb35205fca0750cba6d9ebc6956f2fd2f598245208b3f3424446deb596d34a30ae08d8021ahs",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Lex Immutabilis / Tapu / רית קודש",
+                                           "PreservationHash":  "sha1028-7bd5f057f13c883696668f2cdf143513f49ae5296738e1da6b5e1b66cb5cb35205fca0750cba6d9ebc6956f2fd2f598245208b3f3424446deb596d34a30ae08d8021ahs",
+                                           "ParentDagHash":  "0000000000000000000000000000000000000000000000000000000000000000",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                                           "TimestampUTC":  "2026-08-31T09:44:58.5955618Z",
+                                           "ComplianceStatus":  "Verified-Tamper-Evident-DAG-Locked"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:47:23.7115468+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "NfcUid":  "NFC-OBFUSCATED-BBBE241F-BC9D-4233-8A74-986EB273229A",
+                        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-OBFUSCATED]-v1.0.0-m",
+                        "Theta":  2.6442062959272241,
+                        "MarkovProb":  0.47,
+                        "NewtonianForce":  2,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.2999999999999989,
+                        "Mode":  "Obfuscated-AirGap",
+                        "PreservationHash":  "sha1028-0160b91879bef6b3541ea230d825c65d0b477180c48e9247c4e004c56dcc536d2d2321df02ed6d488279c3b61a72ec8738c9eecc9991d37b99bcfd6409aafcbc8021ahs",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention / Lex Immutabilis / Tapu / רית קודש",
+                                           "PreservationHash":  "sha1028-0160b91879bef6b3541ea230d825c65d0b477180c48e9247c4e004c56dcc536d2d2321df02ed6d488279c3b61a72ec8738c9eecc9991d37b99bcfd6409aafcbc8021ahs",
+                                           "ParentDagHash":  "sha1028-7bd5f057f13c883696668f2cdf143513f49ae5296738e1da6b5e1b66cb5cb35205fca0750cba6d9ebc6956f2fd2f598245208b3f3424446deb596d34a30ae08d8021ahs",
+                                           "ChainOfCustody":  "Immutable-Absorb-Only / Неприкосновенно",
+                                           "TimestampUTC":  "2026-08-31T09:47:23.7104512Z",
+                                           "ComplianceStatus":  "Verified-Obfuscated-Live-DAG"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:48:48.4862247+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "NfcUid":  "NFC-BUDAPEST-COMPLIANT-23F016F3-2462-4D2B-9DCA-60F5C3E369F9",
+                        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-BUDAPEST]-v1.0.0-m",
+                        "Theta":  3.9029737580809929,
+                        "MarkovProb":  0.32,
+                        "NewtonianForce":  2,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.3499999999999988,
+                        "Mode":  "Budapest-Article29-Preservation-Quarantine",
+                        "PreservationHash":  "sha1028-81a94d997a058e3442238fda13d4048a020ab70c46349a2272a1481646bb9451f4128b035e94f68492d0fe6fd96cf3047be699be9ff95f1bace890cd79ada0588021ahs",
+                        "Compliance":  {
+                                           "Framework":  "Budapest Convention on Cybercrime (ETS 185) - Articles 16, 29 \u0026 Second Additional Protocol",
+                                           "PreservationHash":  "sha1028-81a94d997a058e3442238fda13d4048a020ab70c46349a2272a1481646bb9451f4128b035e94f68492d0fe6fd96cf3047be699be9ff95f1bace890cd79ada0588021ahs",
+                                           "ParentDagHash":  "sha1028-0160b91879bef6b3541ea230d825c65d0b477180c48e9247c4e004c56dcc536d2d2321df02ed6d488279c3b61a72ec8738c9eecc9991d37b99bcfd6409aafcbc8021ahs",
+                                           "ChainOfCustody":  "Immutable-Expedited-Preservation / Неприкосновенно",
+                                           "TimestampUTC":  "2026-08-31T09:48:48.4862247Z",
+                                           "ComplianceStatus":  "Verified-Budapest-DAG-Locked"
+                                       }
+                    },
+                    {
+                        "Timestamp":  "2026-08-31T19:51:08.6260779+10:00",
+                        "RootHash":  "v1.0.0-merkle-a1b2c3d4",
+                        "NfcUid":  "NFC-GLOBAL-NET-87057AEC-527D-4159-B0C9-9A8B6888448F",
+                        "NftBinding":  "ERC721:0xROBLLAMA...[TAPU-GLOBAL-NET]-v1.0.0-m",
+                        "Theta":  0.86077271101694031,
+                        "MarkovProb":  0.28,
+                        "NewtonianForce":  1.7540326632465375,
+                        "Manifest":  {
+                                         "Engine":  "PowerShell 5.1",
+                                         "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+                                         "ActiveDirectory":  "C:\\zsh-Robllama",
+                                         "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+                                         "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+                                         "SecurityStatus":  "LOCAL_STATE_LOCKED",
+                                         "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+                                     },
+                        "Phase":  2.3999999999999986,
+                        "Mode":  "Global-Socket-Isolated",
+                        "PreservationHash":  "sha1028-2b89a663b5349679c8b3590feea75bdfbf120f2dbdb8c8a970b5cc53d802ada257f9c66e4b3410a55b3182dbe1c5fba7f8bc154c65299442f44a81dd318d9e7b8021ahs",
+                        "Compliance":  {
+                                           "Framework":  "Global .NET Socket Interop / Budapest Convention / Lex Immutabilis / רית קודש",
+                                           "PreservationHash":  "sha1028-2b89a663b5349679c8b3590feea75bdfbf120f2dbdb8c8a970b5cc53d802ada257f9c66e4b3410a55b3182dbe1c5fba7f8bc154c65299442f44a81dd318d9e7b8021ahs",
+                                           "ParentDagHash":  "sha1028-81a94d997a058e3442238fda13d4048a020ab70c46349a2272a1481646bb9451f4128b035e94f68492d0fe6fd96cf3047be699be9ff95f1bace890cd79ada0588021ahs",
+                                           "ChainOfCustody":  "Universal-Network-Socket-Bound / Неприкосновенно",
+                                           "TimestampUTC":  "2026-08-31T09:51:08.6260779Z",
+                                           "ComplianceStatus":  "Verified-Global-Interface-Locked"
+                                       }
+                    }
+                ]
+}

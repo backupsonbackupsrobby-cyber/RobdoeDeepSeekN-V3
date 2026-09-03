@@ -1,0 +1,122 @@
+﻿[
+    {
+        "system_strength_rho":  84.2,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "WA",
+        "psi_gamma_phase":  0.86604903143302314,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "WA-PERTH",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  68.004603399422692,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  45.1,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "WA",
+        "psi_gamma_phase":  4.4907884915626957,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "WA-KARRATHA",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  -106.91940045857183,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  38.7,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "WA",
+        "psi_gamma_phase":  0.558098636864167,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "WA-KALGOORLIE",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  5.9735222326964648,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  52.3,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NT",
+        "psi_gamma_phase":  3.7223632586171163,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NT-DARWIN",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  -146.65040830603996,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  21.6,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NT",
+        "psi_gamma_phase":  1.1691383275200016,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NT-KATHERINE",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  22.977557327772008,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  19.4,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NT",
+        "psi_gamma_phase":  2.904409329396576,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NT-ALICE",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  2.9947575534790087,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  12.1,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NT",
+        "psi_gamma_phase":  0.43922170550045164,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NT-TENNANT",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  -204.89601723587279,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  145.8,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NSW",
+        "psi_gamma_phase":  4.68896618478751,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NSW-SYDNEY",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  -183.76035406262841,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  98.3,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NSW",
+        "psi_gamma_phase":  0.70548436674124315,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NSW-NEWCASTLE",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  49.583293683845007,
+        "master_clock_hz":  10000000
+    },
+    {
+        "system_strength_rho":  32.4,
+        "automated_by":  "RobclawD-Sovereign-Core",
+        "region":  "NSW",
+        "psi_gamma_phase":  1.8649285520744907,
+        "equation_signature":  "Unified-Wave-Kuramoto-10MHz",
+        "node_id":  "NSW-BROKENHILL",
+        "timestamp":  "2026-08-03 04:04:26",
+        "clock_tau":  3.3456776679240526E-08,
+        "omega_frequency":  68.187131476264383,
+        "master_clock_hz":  10000000
+    }
+]
