@@ -1,0 +1,9 @@
+{
+    "Engine":  "PowerShell 5.1",
+    "Timestamp_UTC":  "2026-08-30T12:17:31.3199490Z",
+    "ActiveDirectory":  "C:\\zsh-Robllama",
+    "Permissions":  "SYSTEM_AND_ADMINS_ONLY",
+    "Model":  "LUCY_PS51_SECURITY_LATTICE_1024",
+    "SecurityStatus":  "LOCAL_STATE_LOCKED",
+    "StateRoot1024Hex":  "2ac74b6cb20cc1667bb0e1338dfd3a4e93c11cc7ae63fff2fc5c14bf4815e5f79f6e947dfccf66018d19cf2c7769d67738184f903eed481e82f94eeca31c8c97c48482c24363e293299cce93c33b922ab9ee507c6882e321f7e55cce9eaed31320e8b33be18c717cfd0dec722c0f1f4af11ee671f086e075a5d906c1ba6bf546"
+}
